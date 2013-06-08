@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Baked Beans</name>
+        <price>0.50</price>
+        <priceWas>0.50</priceWas>
+    </product>
+    <product>
+        <name>Washing Up Liquid</name>
+        <price>0.50</price>
+        <priceWas>0.72</priceWas>
+    </product>
+    <product>
+        <name>Rubber Gloves</name>
+        <price>1.30</price>
+        <priceWas>1.50</priceWas>
+    </product>
+    <product>
+        <name>Bread</name>
+        <price>0.72</price>
+        <priceWas>0.72</priceWas>
+    </product>
+    <product>
+        <name>Butter</name>
+        <price>0.75</price>
+        <priceWas>0.83</priceWas>
+    </product>
+    <currency>£</currency>
+</products>
